@@ -1,0 +1,1 @@
+In this Lab we were tasked to have a MSP 432 with a pair of motors go forward, go around an object, and then return
