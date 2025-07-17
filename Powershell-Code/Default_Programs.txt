@@ -1,0 +1,7 @@
+googlechrome
+firefox
+vlc
+webex
+webex-meetings
+adobereader
+notepadplusplus

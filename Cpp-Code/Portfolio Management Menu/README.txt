@@ -1,0 +1,1 @@
+test1.txt and test2.txt can be read into the program, they are examples on how the data must be formatted for input files

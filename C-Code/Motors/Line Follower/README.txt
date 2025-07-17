@@ -1,0 +1,2 @@
+In this Project, we were tasked with having the MSP432 follow a path on a posterboard described by black electrical tape
+it would use the sensors on the bottom and know whether it had to turn left or right to continue on the path

@@ -1,0 +1,13 @@
+reading the input set
+	reading in input uses a while loop
+	thus it happens n times so O(n)
+storing the obects
+	I used a std map aka hashtable to store the word as the key and the frequency as the value
+	thus adding to the map,  searching,and accesing  the map is O(log n)
+deciding top ten
+	i use a for loop to fill a vector with the values of the map-O(n)
+	then sort the vector using std::sort() which is O(log n)
+	and then another for loop to print the keys and their values O(n)	
+all other code
+	for the rest of the code, its just if statements for seeing if the input is char/word/number and placing them in the right map
+	if statements are O(1)
